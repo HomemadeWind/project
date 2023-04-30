@@ -1,8 +1,8 @@
 # Danh sách thành viên
 Họ Tên|Lớp|Email
 -|-|-
-Vòng Chí Văn|11CT3|hanv.cotai@gmail.com
-Lý Triều Phong|11CT3|huy.cotai@gmail.com
+Vòng Chí Văn|11CT3|vanblahblah4@gmail.com 
+Lý Triều Phong|11CT3|lytrieuphong27@gmail.com
 
 
 # Thông tin project
