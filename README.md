@@ -7,7 +7,7 @@ Lý Triều Phong|11CT3|lytrieuphong27@gmail.com
 
 # Thông tin project
 ## Đề tài: Tích hợp hệ thống nhận diện khuôn mặt và hệ thống phát hiện xe hơi đậu trước nhà để chống trộm
-## Các thư viện sử dụng: numpy, matplotlib, scikit-learn, plotly
+## Các thư viện sử dụng: numpy, matplotlib, scikit-learn, plotly, opencv
 
 ## Các chức năng chính & kế hoạch thực hiện
 
