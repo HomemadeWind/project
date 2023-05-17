@@ -48,7 +48,7 @@ def main():
               else:
                 color = (0, 255, 0)
              cv2.rectangle(frame, (x, y), (x + w, y + h),color, 3)
-     cv2.imshow("cars",frame)
-     key=cv2.waitKey(60) & 0xFF
+        cv2.imshow("cars",frame)
+        key=cv2.waitKey(60) & 0xFF
    
 main()
